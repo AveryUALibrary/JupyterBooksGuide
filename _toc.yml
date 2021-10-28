@@ -7,11 +7,3 @@ parts:
   - caption: Installation
     chapters:
     - file: setup
-  - caption: Graphing
-    chapters:
-    - file: data
-  - caption: Extra
-    chapters:
-    - file: markdown
-      sections:
-      - file: notebooks

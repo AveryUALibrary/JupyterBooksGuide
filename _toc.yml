@@ -4,6 +4,11 @@
 format: jb-book
 root: introduction
 parts:
-  - caption: Installation
+  - caption: installations
     chapters:
-    - file: setup
+    - file: python
+    - file: anaconda
+    - file: pycharm
+    - file: pip
+    - file: git
+    - file: jupyterbook
